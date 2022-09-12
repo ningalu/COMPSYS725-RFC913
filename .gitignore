@@ -1,0 +1,9 @@
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+.vscode
+CMakeCache.txt
+build/*
